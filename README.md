@@ -23,3 +23,6 @@ A collection of my **projects** and **notes** for Colt Steele's *Web Developer B
 - `Maps and Geocoding`
 
 ## Projects and Code-Alongs
+
+### Pricing Table
+Simple pricing table using HTML and CSS. Based on a CodePen project by Travis Williamson.
