@@ -26,8 +26,13 @@ A collection of my **projects** and **notes** for Colt Steele's *Web Developer B
 
 ## 🗂️ Projects and Code-Alongs
 
-### [Pricing Table](./Projects)
+### [Pricing Table](./Projects/CSS-Projects/PriceTable)
 Simple pricing table using HTML and CSS. Based on a CodePen project by Travis Williamson.
 
-![image](https://user-images.githubusercontent.com/63019625/146882051-8217c10c-4b93-4e8e-b8c4-fe230e5f018a.png)
+<img src="https://user-images.githubusercontent.com/63019625/146882051-8217c10c-4b93-4e8e-b8c4-fe230e5f018a.png" alt="PriceTable-png" width="800"/>
 
+
+### [Museum Of Candy](./Projects/CSS-Projects/MuseumOfCandy)
+Small responsive website using Bootstrap.
+
+<img src="https://user-images.githubusercontent.com/63019625/147022061-e4a0d233-5b08-49c5-93fd-173cdc247282.gif" alt="MuseumProject-gif" width="800"/>
