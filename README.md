@@ -39,3 +39,8 @@ Small responsive website using Bootstrap.
 
 ### [Score Keeper](./Projects/JS-Projects/ScoreKeeper)
 Simple volleyball score keeping widget using JavaScript and Bulma.
+
+<img src="https://user-images.githubusercontent.com/63019625/148162475-e6824202-e0ec-43b9-b538-818f7ee2370b.gif" alt="ScoreKeeperProject-gif" width="800"/>
+
+
+
