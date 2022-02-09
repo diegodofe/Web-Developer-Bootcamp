@@ -24,7 +24,7 @@ A collection of my **projects** and **notes** for Colt Steele's *Web Developer B
 - `Image Upload and Storage`
 - `Maps and Geocoding`
 
-## 🗂️ Projects and Code-Alongs
+## 🗂️ Projects
 
 ### [Pricing Table](./Projects/CSS-Projects/PriceTable)
 Simple pricing table using HTML and CSS. Based on a CodePen project by Travis Williamson.
